@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pragmadev/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1e4359a75cac335ce135e4a33190af01dbf5b99b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/5fc4006bcfe200242df29c377723dfa13a74b2c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_013e86fc5d3b1bd6e6a5ebdda224d7160fd86f8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/44b6cf524c1c1ba9d9ac56d6405253a967b47c7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33281b514b2c2767cc41a54e50d6f922df8ed25e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1e4359a75cac335ce135e4a33190af01dbf5b99b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/39f028d96c2ed26c99295b1c7c40adf9ab624637/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6127eadbce9c037e9aabb4b4cff1dc8296403051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/9741378bc78b27f97ba9139cad6f52220d552fdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37855a409e3e6367e1b383e15641344536ee656d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8514ed807a7ccae6e8233357d71d6e4ce109082b">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8a89ffa3e61dcf8f5bb975bb7ce97444824c0821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/81a7890eaf146826478e51111c34ddda3293cc78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_174b3ef417c39c6d9e9df12babb080ccf86b711e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/f8ac906a24f7d91d0d081fdb8a1e0596a4a803c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b16b38f757b6cbed4e4c0eda018d19f37f754b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c79ea8974cb74be28505006de0a4b1edaabc5b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/92a4be0b45cab9e8de41d74edc35e7dfe0b31c86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9ce8d72d40f6adbb56a20cc8a3c22a23848594d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/ee44a43675cb1ae07ec53221d0bb8b717cc60e03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f813de905d38af80343ba797fc043ba64b6f169/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/67137613ccadc55acbb936c399e3e1c0efad8663/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddf1d3f458248730bcf5a56641f0afcf14fc9aee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/65526295e2648341763856f924365475676f28b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ef15711e4ca9ee8d2ef43c6fba36dbddd02beca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/881249833ae67139979a6640ccfe781cc1c4eb32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf011fa9664f852a29477872ade222def27d4a3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pragmadev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_cebeecc1bdcf27b09ee68324fcf54a226d944a2f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/3f57c0f6925242e3ac7bd7a99738079e2157dea4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddf8a7f84a6d1122bd3b019d378085232734fc0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_cebeecc1bdcf27b09ee68324fcf54a226d944a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pragmadev/.android/build-cache/a9319aa5153d29eb68347879cb380a8c41687895/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/pragmadev/Documents/Android/myproject/KAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0622c150f1153ab2d2a063259648e24a1c5fc933/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomFontTextView">
+        <!-- So far, we only want to customize textview typeface -->
+        <!-- Add your new customizations items for textview here -->/>
+        <attr name="textfonts" format="string"/>
+    </declare-styleable>
+</resources>

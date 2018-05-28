@@ -1,0 +1,42 @@
+<resources xmlns:style="http://schemas.android.com/tools">
+    <string name="app_name">KAS</string>
+    <string name="basketball">Basketball</string>
+    <string name="futsal">Futsal</string>
+    <string name="event">Event</string>
+    <string name="training">Training</string>
+    <string name="btn_about">Tentang</string>
+    <string name="main_screen">MainScreen</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="waitLabel">Please wait .....</string>
+    <string name="hisotry">Sejarah</string>
+    <string name="dasar">Aksara</string>
+    <string name="rarangken">Rarangken</string>
+    <string name="tes">Quiz</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_next">Next</string>
+    <string name="sejarah">Aksara Sunda yang awalnya dikenal sebagai Aksara Sunda Kuno / Aksara Ratu Pakuan / Aksara Kaganga pada masa silam terdokumentasikan dalam bentuk piagam yang berupa batu, lempengan, logam, dan naskah kuno yang berupa daun lontar, daun nipah, kertas, dan lain sebagainya.</string>
+    <string name="sejarah2">Penggunaan Aksara Sunda kuno ini ditemukan pada prasasti Kawali (Ciamis) yang ditulis pada akhir abad 14 / awal abad 15-an. Prasasti ini dibuat pada masa pemerintahan Prabu Niskala Wastukancana (1397 - 1475). Prasasti lainnya adalah prasasti Kabantenan (Bekasi, 1482 - 1521). Selain itu juga terdapat pada prasasti-prasasti peninggalan Kerajaan Tarumanegara diantaranya Prasasti Kebunkopi 1, Prasasti Ciaruteun, Prasasti Jambu, dan Prasasti Tugu.</string>
+    <string name="sejarah3">Sedangkan naskah yang ditulis menggunakan Aksara Sunda Kuno antara lain adalah Sanghyang Siksakanda Ng Karesian, Carita Parahyangan (abad-16) dan Kisah Bujanggamanik. Naskah dokumen termuda yang menggunakan Aksar Sunda Kuno adalah cerita Waruga Guru (abad-18) yang ditulis menggunakan bahan kertas eropa.</string>
+    <string name="sejarah4">Pada pertengahan abad-19, mulai ada penelitian yang dilakukan oleh K.F.Holle (1829 - 1896), seorang dari Belanda sekaligus pendiri perkebunan teh di lereng Gunung Cikuray Garut (1857) yang juga seorang peneliti Aksara Sunda Kuno di wilayah Nusantara khususnya, dan di wilayah India dan sekitarnya pada umumnya. Tahun 1999 melalui SK Gubernur Jawa Barat No. 434/SK 614-Dis.PK/99, dilakukan pembakuan aksara Sunda yang didasari oleh aksara Sunda Kuna. Hal tersebut untuk menghidupkan aksara Sunda sebagai suatu kekayaan budaya. Pada akhirnya tahun 2008 aksara Sunda dikembangkan menjadi direktori Aksara Sunda untuk unicode yang di standarisasi. Aksara Sunda dikelompokkan menjadi empat macam yaitu : 32 butir Aksara Ngalagena (Aksara Dasar), 7 butir Aksara Swara (Vokal Mandiri), Rarangken (Penanda bunyi), Angka.</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Button</string>
+    <string name="aboutv1"><b>Go-Peaksu Ver 1.0</b> \n <h6>(Pembelajaran Aksara Sunda)</h6></string>
+    <string name="about">Aplikasi ini dibuat untuk memberikan kemudahan dalam memahami dan mempelajari Aksara Sunda.</string>
+    <string name="author">Author :</string>
+    <string name="nama">Faisal Al Zamar</string>
+    <string name="title_activity_menu_utama">MenuUtama</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt1">Menu Beranda, tampilan awal aplikasi. </string>
+    <string name="txt2">Menu Sejarah, menjelaskan tentang sejarah aksara sunda.</string>
+    <string name="txt3">Menu Rarangken, terdapat jenis rarangken dan dapat menampilkan deskripsi beserta contohnya.</string>
+    <string name="txt4">Menu Aksara Sunda, pilih jenis aksara, lalu pilih jenis huruf setelah itu tirukan tulisan aksara sunda sesuai animasi dan tunggu sebentar untuk mengecek hasilnya.</string>
+    <string name="txt5">Menu Kuis, masukan nama terlebih dahulu, isi semua jawaban jangan sampai kosong, hasil kuis akan muncul setelah selesai mengerjakan semua soal.</string>
+    <string name="txt6">Menu Bantuan, tampilan bantuan aplikasi.</string>
+
+
+</resources>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar"
+        android:id="@id/toolbar"/>
+
+    <LinearLayout
+        android:id="@+id/LayoutMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:orientation="vertical"
+        android:padding="6dp">
+
+        <RelativeLayout
+            android:id="@+id/barisPertama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_alignParentLeft="true"
+                android:background="@color/acolorAccent"
+                android:id="@+id/angka1"
+                android:drawableTop="@drawable/angka1"
+                android:onClick="klikTombolMenu"
+                android:text="1"
+                android:textStyle="bold"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"/>
+
+            <Button
+                android:layout_centerHorizontal="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka2"
+                android:drawableTop="@drawable/angka2"
+                android:onClick="klikTombolMenu"
+                android:text="2"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_alignParentRight="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka3"
+                android:drawableTop="@drawable/angka3"
+                android:onClick="klikTombolMenu"
+                android:text="3"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/barisDua"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_alignParentLeft="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka4"
+                android:drawableTop="@drawable/angka4"
+                android:onClick="klikTombolMenu"
+                android:text="4"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_centerHorizontal="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka5"
+                android:drawableTop="@drawable/angka5"
+                android:onClick="klikTombolMenu"
+                android:text="5"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_alignParentRight="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka6"
+                android:drawableTop="@drawable/angka6"
+                android:onClick="klikTombolMenu"
+                android:text="6"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/barisTiga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_alignParentLeft="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka7"
+                android:drawableTop="@drawable/angka7"
+                android:onClick="klikTombolMenu"
+                android:text="7"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_centerHorizontal="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka8"
+                android:drawableTop="@drawable/angka8"
+                android:onClick="klikTombolMenu"
+                android:text="8"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_alignParentRight="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka9"
+                android:drawableTop="@drawable/angka9"
+                android:onClick="klikTombolMenu"
+                android:text="9"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/barisEmpat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_centerHorizontal="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/angka0"
+                android:drawableTop="@drawable/angka0"
+                android:onClick="klikTombolMenu"
+                android:text="0"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+    </LinearLayout>
+</LinearLayout>

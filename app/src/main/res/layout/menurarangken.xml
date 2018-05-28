@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/toolbar"
+            android:id="@id/toolbar"/>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_below="@id/toolbar"
+            android:id="@+id/LayoutMenu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <RelativeLayout
+                android:id="@+id/barisPertama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/pamepet"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/pamepet"
+                    android:onClick="klikTombolMenu"
+                    android:text="pamepet"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/panghulu"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/panghulu"
+                    android:onClick="klikTombolMenu"
+                    android:text="panghulu"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/panglayar"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/panglayar"
+                    android:onClick="klikTombolMenu"
+                    android:text="panglayar"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/barisDua"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.0"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/panyecek"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/panyecek"
+                    android:onClick="klikTombolMenu"
+                    android:text="panyecek"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/paneuleung"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/peneuleung"
+                    android:onClick="klikTombolMenu"
+                    android:text="paneuleung"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/panyakra"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/panyakra"
+                    android:onClick="klikTombolMenu"
+                    android:text="panyakra"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/barisTiga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.0"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/panyiku"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/panyiku"
+                    android:onClick="klikTombolMenu"
+                    android:text="panyiku"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/panyuku"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/panyuku"
+                    android:onClick="klikTombolMenu"
+                    android:text="panyuku"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/pamaeh"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/pamaeh"
+                    android:onClick="klikTombolMenu"
+                    android:text="pamaeh"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/barisEmpat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.0"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/pamingkal"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/pamingkal"
+                    android:onClick="klikTombolMenu"
+                    android:text="pamingkal"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/panolong"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/paneleng"
+                    android:onClick="klikTombolMenu"
+                    android:text="panolong"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/pangwisad"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/pangwisad"
+                    android:onClick="klikTombolMenu"
+                    android:text="pangwisad"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/barisLima"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1.0"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/paneleng"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/bg"
+                    android:drawableTop="@drawable/panolong"
+                    android:onClick="klikTombolMenu"
+                    android:text="paneleng"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</ScrollView>

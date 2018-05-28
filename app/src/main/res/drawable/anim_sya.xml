@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:duration="1000" android:drawable="@drawable/sya19" />
+    <item android:duration="100" android:drawable="@drawable/syasya" />
+    <item android:duration="100" android:drawable="@drawable/sya2" />
+    <item android:duration="100" android:drawable="@drawable/sya3" />
+    <item android:duration="100" android:drawable="@drawable/sya4" />
+    <item android:duration="100" android:drawable="@drawable/sya5" />
+    <item android:duration="100" android:drawable="@drawable/sya6" />
+    <item android:duration="100" android:drawable="@drawable/sya7" />
+    <item android:duration="100" android:drawable="@drawable/sya8" />
+    <item android:duration="100" android:drawable="@drawable/sya9" />
+    <item android:duration="100" android:drawable="@drawable/sya10" />
+    <item android:duration="100" android:drawable="@drawable/sya11" />
+    <item android:duration="100" android:drawable="@drawable/sya12" />
+    <item android:duration="100" android:drawable="@drawable/sya13" />
+    <item android:duration="100" android:drawable="@drawable/sya14" />
+    <item android:duration="100" android:drawable="@drawable/sya15" />
+    <item android:duration="100" android:drawable="@drawable/sya16" />
+    <item android:duration="100" android:drawable="@drawable/sya17" />
+    <item android:duration="100" android:drawable="@drawable/sya18" />
+    <item android:duration="2000" android:drawable="@drawable/sya19" />
+</animation-list>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.uinbdg.kas">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeFullScreen">
+        <activity android:name=".ui.MainActivity">
+
+        </activity>
+        <activity android:name=".ui.SejarahActivity">
+
+        </activity>
+        <activity android:name=".quis.QuizActivity">
+
+        </activity>
+
+        <activity android:name=".ui.PangwisadActivity"></activity>
+        <activity android:name=".ui.MenuRarangken"></activity>
+        <activity android:name=".ui.PemepetActivity"></activity>
+        <activity android:name=".ui.PanghuluActivity"></activity>
+        <activity android:name=".ui.PanglayarActivity"></activity>
+        <activity android:name=".ui.PanyecekActivity"></activity>
+        <activity android:name=".ui.PaneuleungActivity"></activity>
+        <activity android:name=".ui.PanyakraActivity"></activity>
+        <activity android:name=".ui.PanyikuActivity"></activity>
+        <activity android:name=".ui.PanyukuActivity"></activity>
+        <activity android:name=".ui.PamaehActivity"></activity>
+        <activity android:name=".ui.PamingkalActivity"></activity>
+        <activity android:name=".ui.PanelengActivity"></activity>
+        <activity android:name=".ui.PanolongActivity"></activity>
+        <activity android:name=".angka.DalapanActivity"></activity>
+        <activity android:name=".angka.GenepActivity"></activity>
+        <activity android:name=".angka.HijiActivity"></activity>
+        <activity android:name=".angka.LimaActivity"></activity>
+        <activity android:name=".angka.NolActivity"></activity>
+        <activity android:name=".angka.OpatActivity"></activity>
+        <activity android:name=".angka.SalapanActivity"></activity>
+        <activity android:name=".angka.TiluActivity"></activity>
+        <activity android:name=".angka.TujuhActivity"></activity>
+        <activity android:name=".ui.MenuKonsonan"></activity>
+        <activity android:name=".konsonan.FaActivity"></activity>
+        <activity android:name=".konsonan.KhaActivity"></activity>
+        <activity android:name=".konsonan.QaActivity"></activity>
+        <activity android:name=".konsonan.SyaActivity"></activity>
+        <activity android:name=".konsonan.VaActivity"></activity>
+        <activity android:name=".konsonan.XaActivity"></activity>
+        <activity android:name=".konsonan.ZaActivity"></activity>
+        <activity android:name=".ui.MenuSwara"></activity>
+        <activity android:name=".swara.AActivity"></activity>
+        <activity android:name=".swara.EActivity"></activity>
+        <activity android:name=".swara.EeActivity"></activity>
+        <activity android:name=".swara.EuActivity"></activity>
+        <activity android:name=".swara.IActivity"></activity>
+        <activity android:name=".swara.OActivity"></activity>
+        <activity android:name=".swara.UActivity"></activity>
+        <activity android:name=".ui.MenuDasar"></activity>
+        <activity android:name=".ngalagena.BaActivity"></activity>
+        <activity android:name=".ngalagena.CaActivity"></activity>
+        <activity android:name=".ngalagena.DaActivity"></activity>
+        <activity android:name=".ngalagena.GaActivity"></activity>
+        <activity android:name=".ngalagena.HaActivity"></activity>
+        <activity android:name=".ngalagena.JaActivity"></activity>
+        <activity android:name=".ngalagena.KaActivity"></activity>
+        <activity android:name=".ngalagena.LaActivity"></activity>
+        <activity android:name=".ngalagena.MaActivity"></activity>
+        <activity android:name=".ngalagena.NaActivity"></activity>
+        <activity android:name=".ngalagena.NgaActivity"></activity>
+        <activity android:name=".ngalagena.NyaActivity"></activity>
+        <activity android:name=".ngalagena.PaActivity"></activity>
+        <activity android:name=".ngalagena.RaActivity"></activity>
+        <activity android:name=".ngalagena.SaActivity"></activity>
+        <activity android:name=".ngalagena.TaActivity"></activity>
+        <activity android:name=".ngalagena.WaActivity"></activity>
+        <activity android:name=".ngalagena.YaActivity"></activity>
+        <activity android:name=".ui.AksaraDasar">
+        </activity>
+        <activity android:name=".ui.MenuAngka"></activity>
+        <activity android:name=".angka.DuaActivity">
+
+        </activity>
+        <activity
+            android:name=".ui.MenuUtama"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

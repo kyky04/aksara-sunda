@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Beranda"
+            android:icon="@mipmap/icon_beranda"/>
+        <item
+            android:id="@+id/nav_sejarah"
+            android:title="Sejarah"
+            android:icon="@mipmap/icon_sejarah"/>
+        <item
+            android:id="@+id/nav_rarangken"
+            android:title="Rarangken"
+            android:icon="@mipmap/icon_rarangken"/>
+        <item
+            android:id="@+id/nav_tulis"
+            android:icon="@mipmap/icon_aksara"
+            android:title="Aksara Sunda" />
+        <item
+            android:visible="false"
+            android:id="@+id/nav_kuis"
+            android:title="Kuis"
+            android:icon="@mipmap/icon_kuis"/>
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@mipmap/icon_bantuan"
+            android:title="Bantuan" />
+    </group>
+</menu>

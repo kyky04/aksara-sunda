@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar"
+        android:id="@id/toolbar"/>
+
+    <LinearLayout
+        android:id="@+id/LayoutMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:orientation="vertical"
+        android:padding="6dp">
+
+        <RelativeLayout
+            android:id="@+id/barisPertama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            >
+
+            <Button
+                android:layout_alignParentLeft="true"
+                android:background="@color/acolorAccent"
+                android:id="@+id/fa"
+                android:drawableTop="@drawable/fa"
+                android:onClick="klikTombolMenu"
+                android:text="fa"
+                android:textStyle="bold"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"/>
+
+            <Button
+                android:layout_centerHorizontal="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/qa"
+                android:drawableTop="@drawable/qa"
+                android:onClick="klikTombolMenu"
+                android:text="qa"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_alignParentRight="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/va"
+                android:drawableTop="@drawable/va"
+                android:onClick="klikTombolMenu"
+                android:text="va"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/barisDua"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_alignParentLeft="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/xa"
+                android:drawableTop="@drawable/xa"
+                android:onClick="klikTombolMenu"
+                android:text="xa"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_centerHorizontal="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/za"
+                android:drawableTop="@drawable/za"
+                android:onClick="klikTombolMenu"
+                android:text="za"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/barisTiga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_alignParentLeft="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/kha"
+                android:drawableTop="@drawable/khabutton"
+                android:onClick="klikTombolMenu"
+                android:text="kha"
+                android:textStyle="bold" />
+
+            <Button
+                android:layout_centerHorizontal="true"
+                android:background="@color/acolorAccent"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/sya"
+                android:drawableTop="@drawable/sya"
+                android:onClick="klikTombolMenu"
+                android:text="sya"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>
